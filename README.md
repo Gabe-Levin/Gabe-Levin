@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/angular-254bdd?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/scss-254bdd?style=for-the-badge&logo=scss&logoColor=white">
+<img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7735f9?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
@@ -44,6 +44,6 @@
 <img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
 <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/husky-f76936?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/docker-f76936?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/husky-f76936?style=for-the-badge&logo=husky&logoColor=white">
+<img src="https://img.shields.io/badge/docker-f76936?style=for-the-badge&logo=docker&logoColor=white">
 </p>
