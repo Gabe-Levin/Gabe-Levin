@@ -12,7 +12,7 @@
 ## Skills
 ### Languages
 <p align-"left">
-<img src="https://img.shields.io/badge/python-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/python-037acb?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
 <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
 <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/postgis-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/postgis-31658c?style=for-the-badge&logo=postgis&logoColor=white">
 <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
@@ -32,8 +32,9 @@
 ### Frontend development
 <p align-"left">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/scss-254bdd?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/angular-254bdd?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/scss-254bdd?style=for-the-badge&logo=scss&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7735f9?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
