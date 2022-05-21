@@ -9,4 +9,11 @@
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with  -->
 
+## Skills
+### Languages
+<p align-"left">
+<img src="https://img.shields.io/badge/python-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
