@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on geospatial analysis using Python
 - 🌱 I’m currently learning full stack software development using JavaScript
 - 💬 Ask me about remote sensing, geospatial analysis with python, and making maps with leaflet
-- 📫 How to reach me: https://www.linkedin.com/in/gabriel-levin/
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/linkedin-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aija-avota/)
 - ⚡ Fun fact: Blue belt in Brazilian Jui Jitsu
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with  -->
