@@ -19,7 +19,8 @@
 
 
 ### Backend development
-<p align-"left">
+<p align-"left"> https://img.shields.io/badge/django-135c25?style=for-the-badge&logo=django&logoColor=white
+<img src="https://img.shields.io/badge/django-135c25?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
 <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
